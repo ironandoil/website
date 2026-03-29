@@ -1,9 +1,11 @@
 [package]
-name = "ironandoil"
+name = "ironandoil-website"
 version = "0.1.0"
 edition = "2024"
 license = "AGPL-3.0-only"
 license-file = "LICENSE"
+repository = "https://github.com/ironandoil/website"
+homepage = "https://ironandoil.org"
 
 [lints.rust]
 warnings = "deny"
